@@ -1,6 +1,6 @@
 ### Hello World!
 
-Check out my personal github for more projects: [@jillian12](www.github.com/jillian12)
+Check out my personal github for more projects: [@jillian12](https://github.com/jillian12)
 
 My name is Angelina Jillian Lim, and I prefer to go by Jillian! My pronouns are she/hers and I am currently searching for a <b>full time job to start in Fall 2024 </b> as I graduate at the University of California, Davis in Spring 2024 with a Bachelors of Science in Computer Science, and Minors in Technology Management and Global Studies.
 
