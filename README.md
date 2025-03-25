@@ -4,7 +4,7 @@
 
 Check out my personal github for more projects: [@jillian12](https://github.com/jillian12)
 
-My name is Angelina Jillian Lim, and I prefer to go by Jillian! My pronouns are she/hers and I am currently searching for a <b>full time job to start in Fall 2024 </b> as I graduate at the University of California, Davis in Spring 2024 with a Bachelors of Science in Computer Science, and Minors in Technology Management and Global Studies.
+My name is Angelina Jillian Lim, and I prefer to go by Jillian! My pronouns are she/hers and I graduated from University of California, Davis with a Bachelors of Science in Computer Science, and Minors in Technology Management and Global Studies. I am currently working at McDonald's Corporate as part of the Global Technology Rotational and am searching for my passion and where I fit in the Technology World. 
 
 Passionate about the intersection of technology, education, and problem-solving, I am deeply intrigued by the vast potential of Gamification to revolutionize learning and societal change. With a background of mentorship and instruction by roles at Juni Learning, Mission Bit, and SureStart, I've had the privilege of empowering diverse groups of middle and high school students, sparking their interest in Computer Science. My interest in Gamification was catalyzed during a COVID-19 class at UC Davis, where I encountered 'Foldit,' a game that harnessed collective problem-solving to tackle real scientific puzzles, leaving me fascinated by the transformative power of gamified solutions.
 
